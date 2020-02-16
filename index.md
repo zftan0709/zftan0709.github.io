@@ -2,35 +2,8 @@
 
 * I am a master student at [Clemson University International Center for Automotive Research](https://cuicar.com/), focusing on autonomous vehicle research.
 
+* My goal is to empower robots the ability to perceive and understand the world just like human being or even better than human being.
 
-### Markdown
+* My research interests lie primarily in the area of computer vision, including both geometric and learning method, particular in their application in simulataneous localization and mapping (SLAM), 3D reconstruction, and scene understanding.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zftan0709/zftan0709.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* I received my Bachelor's degree in Mechanical Engineering from Iowa state University in 2019.
